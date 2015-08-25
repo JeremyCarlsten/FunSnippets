@@ -1,0 +1,2 @@
+# FunSnippets
+Some fun Snippets
